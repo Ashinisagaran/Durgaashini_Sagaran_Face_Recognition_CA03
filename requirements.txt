@@ -1,0 +1,8 @@
+opencv-python
+Flask
+numpy
+socketio
+Flask-SocketIO
+eventlet
+waitress
+face_recognition
