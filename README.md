@@ -2,9 +2,6 @@
 
 Student Name: Durgaashini Sagaran (20087371)
 
-# Youtube Link:
-https://youtu.be/ftaGsX1zkUM
-
 
 ## Images:
 
