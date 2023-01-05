@@ -1,0 +1,19 @@
+<!-- index.html -->
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Ashini's Stream</title>
+        <style>
+            .video {
+                align-items: center;
+                justify-content: center;
+                position: relative;
+            }
+        </style>
+    </head>
+    <body>
+        <h1>Face Recognition by Ashini</h1>
+        <div class="Video">
+            <img src="{{ url_for('video_stream') }}" >
+        </div>
+    </body>
