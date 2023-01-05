@@ -2,10 +2,6 @@
 
 Student Name: Durgaashini Sagaran (20087371)
 
-# Youtube Link:
-https://youtu.be/ftaGsX1zkUM 
-
-
 # STEPS:
 1. "pip install -r requirements.txt" = This is to install all the packages needed
 2. Then run server.py 
