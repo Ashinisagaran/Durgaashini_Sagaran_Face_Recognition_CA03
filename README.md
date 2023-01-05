@@ -10,4 +10,4 @@ Student Name: Durgaashini Sagaran (20087371)
 
 # Unknown and Me(Durgaashini)
 
-![Unknown and Me](/result/Unknown&Me)
+![Unknown and Me](/result/Unknown&Me.jpeg)
