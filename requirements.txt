@@ -1,8 +1,9 @@
 opencv-python
 Flask
 numpy
-socketio
+python-socketio
 Flask-SocketIO
 eventlet
 waitress
 face_recognition
+face_recognition_models
